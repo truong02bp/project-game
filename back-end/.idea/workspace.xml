@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3b8a747-fa84-4a58-9c0c-3bc8e8bd0237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/common/utils/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/presentation/controller/AuthenticateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/game/common/utils/JwtUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/game/presentation/controller/AuthenticateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/MyUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/MyUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/core/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/core/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/core/filter/JwtRequestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/core/filter/JwtRequestFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/presentation/controller/AuthenticationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/presentation/controller/web/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/presentation/controller/web/MyRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/service/MyUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/service/MyUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/service/impl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/service/impl/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/MyUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/game/MyUserDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/core/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/game/core/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/core/filter/JwtRequestFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/game/core/filter/JwtRequestFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/presentation/controller/AuthenticationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/presentation/controller/web/MyRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/game/presentation/controller/web/MyRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/service/MyUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/game/service/MyUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/service/impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/game/service/impl/UserService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ilRbQxdimFghG24sb1r6YgU5xu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/web-tin-chi/course-registration/back-end" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.game.core.filter" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GameOfJavaTeam" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.game.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b8a747-fa84-4a58-9c0c-3bc8e8bd0237" name="Default Changelist" comment="" />
+      <created>1602480264468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602480264468</updated>
+      <workItem from="1602480265517" duration="354000" />
+      <workItem from="1602688466333" duration="698000" />
+      <workItem from="1602689177288" duration="1590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="116" width="370" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1602688904702">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="116" width="370" height="576" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1602688904702" />
+    <state x="444" y="155" key="FileChooserDialogImpl" timestamp="1602689956043">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="444" y="155" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1602689956043" />
+    <state width="1320" height="391" key="GridCell.Tab.0.bottom" timestamp="1602691649597">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602691649597" />
+    <state width="1320" height="391" key="GridCell.Tab.0.center" timestamp="1602691649589">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602691649589" />
+    <state width="1320" height="391" key="GridCell.Tab.0.left" timestamp="1602691649588">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602691649588" />
+    <state width="1320" height="391" key="GridCell.Tab.0.right" timestamp="1602691649596">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602691649596" />
+    <state width="1320" height="391" key="GridCell.Tab.1.bottom" timestamp="1602691649601">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602691649601" />
+    <state width="1320" height="391" key="GridCell.Tab.1.center" timestamp="1602691649599">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1602691649599" />
+    <state width="1320" height="391" key="GridCell.Tab.1.left" timestamp="1602691649598">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1602691649598" />
+    <state width="1320" height="391" key="GridCell.Tab.1.right" timestamp="1602691649600">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="391" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602691649600" />
+  </component>
+</project>

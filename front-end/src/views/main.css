@@ -1,0 +1,30 @@
+.labell {
+    text-align: left;
+  }
+  .box-register {
+    margin-top: 70px;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.4);
+    padding: 20px;
+  }
+  .input-style {
+    border: none;
+    border-bottom: 2px solid pink;
+    margin: 10px 0;
+  }
+  .btn-style{
+    width: 100%;
+    margin: 10px 0 ;
+  }
+  .btn-style button{
+    border : none;
+    outline : none;
+    background: blue;
+    padding: 10px 15px;
+  }
+  .btn-style button:nth-child(1){
+    background: #F08080;
+  }
+  .btn-style button:nth-child(2){
+    background: #F08080;
+  }
